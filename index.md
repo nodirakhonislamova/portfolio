@@ -5,6 +5,4 @@ title: Home
 
 ## About me
 
-[A sentence or two about what you study and what you like working on.] [One more
-sentence about what you are looking for: an internship, a research group, a team
-to build things with.]
+I’m a sophomore studying Mechanical Engineering at Cornell University, with interests in aerospace, propulsion systems, and autonomous technologies. I enjoy working on interdisciplinary engineering projects that combine mechanical design, computational modeling, and hands-on development. I’m currently seeking internship and research opportunities where I can contribute to solving complex engineering problems and gain practical experience.
